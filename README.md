@@ -24,7 +24,7 @@ Press 'Q' to quit the program.
 
 ### Encryption Example:
 
-\`\`\`plaintext
+```plaintext
 Welcome to the CaesarCipherTool
 This tool was created by Ikramul Molla.
 
@@ -32,11 +32,11 @@ Do you want to (E)ncrypt or (D)ecrypt? (Enter Q to quit): E
 Enter the message: Hello, World!
 Enter the shift value: 3
 Encrypted Message: Khoor, Zruog!
-\`\`\`
+```
 
 ### Decryption Example:
 
-\`\`\`plaintext
+```plaintext
 Welcome to the CaesarCipherTool
 This tool was created by Ikramul Molla.
 
@@ -44,5 +44,5 @@ Do you want to (E)ncrypt or (D)ecrypt? (Enter Q to quit): D
 Enter the message: Khoor, Zruog!
 Enter the shift value: 3
 Decrypted Message: Hello, World!
-\`\`\`
+```
 
