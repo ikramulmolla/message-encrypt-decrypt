@@ -22,9 +22,9 @@ Choose 'E' for encryption or 'D' for decryption.
 Enter the message and the shift value as prompted.
 Press 'Q' to quit the program.
 
-## Encryption Example:
-plaintext
-Copy code
+### Encryption Example:
+
+\`\`\`plaintext
 Welcome to the CaesarCipherTool
 This tool was created by Ikramul Molla.
 
@@ -32,10 +32,11 @@ Do you want to (E)ncrypt or (D)ecrypt? (Enter Q to quit): E
 Enter the message: Hello, World!
 Enter the shift value: 3
 Encrypted Message: Khoor, Zruog!
+\`\`\`
 
-## Decryption Example:
-plaintext
-Copy code
+### Decryption Example:
+
+\`\`\`plaintext
 Welcome to the CaesarCipherTool
 This tool was created by Ikramul Molla.
 
@@ -43,3 +44,5 @@ Do you want to (E)ncrypt or (D)ecrypt? (Enter Q to quit): D
 Enter the message: Khoor, Zruog!
 Enter the shift value: 3
 Decrypted Message: Hello, World!
+\`\`\`
+
